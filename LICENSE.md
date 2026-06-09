@@ -1,4 +1,4 @@
-# 
+# Ultime AutoHotkey modules complémentaires pour Mac OS | Instantané AutoHotkey modules complémentaires pour PC Windows. Avec nettoyage du cache et audits de sécurité — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
